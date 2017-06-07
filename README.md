@@ -1,6 +1,6 @@
 # Navigation 2 (Tab)
 ## Link File APK : 
-#### https://github.com/geraldjunha/Nav1/blob/master/app-debug.apk
+#### https://github.com/geraldjunha/Nav2/blob/master/app-debug.apk
 ## Identitas Siswa :
 #### NAMA : M.Gerald Junhakristama
 #### KELAS : XI RPL 1
